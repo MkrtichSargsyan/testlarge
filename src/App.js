@@ -1,6 +1,7 @@
 import './App.css';
 
-import pdf from './assets/DOHRNII - Whitepaper.pdf'
+// import pdf from './assets/DOHRNII - Whitepaper.pdf'
+import pdf from './assets/sample.pdf';
 
 function App() {
   return (
@@ -13,8 +14,6 @@ function App() {
       >
         WhitePaper
       </a>
-
-      asdf
     </div>
   );
 }
