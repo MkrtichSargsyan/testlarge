@@ -1,7 +1,6 @@
 import './App.css';
 
-// import pdf from './assets/DOHRNII - Whitepaper.pdf'
-import pdf from './assets/sample.pdf';
+import pdf from './assets/DOHRNII - Whitepaper.pdf'
 
 function App() {
   return (
